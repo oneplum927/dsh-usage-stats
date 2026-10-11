@@ -1,0 +1,5 @@
+# Usage Statistics bundle: one Host row whose Client half renders the sidebar
+# entry and the statistics panel.
+- insert:
+    - id: usage-stats
+      name: '@local/dsh-usage-stats'
